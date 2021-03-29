@@ -158,7 +158,7 @@ pycrypto==2.6.1
 pycurl==7.43.0.1
 pydot==1.2.4
 pyflakes==1.6.0
-Pygments==2.2.0
+Pygments==2.7.4
 pygpu==0.7.6
 pylint==1.8.4
 pyodbc==4.0.23
